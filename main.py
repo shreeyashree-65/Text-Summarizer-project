@@ -1,3 +1,3 @@
-from textSummarizer.logging import logger
+from tectSummarizer.logging import logger
 
 logger.info("Welcome to our custom logging")
